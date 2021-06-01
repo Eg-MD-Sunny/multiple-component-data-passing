@@ -24,12 +24,12 @@
 03.====>>git add .\
 04.====>>git commit -m "first commit"\
 05.====>>git branch -M main\
-06.====>>git remote add origin https://github.com/Eg-MD-Sunny/multiple-component-data-passing.git\
+06.====>>git remote add origin https://github.com/Eg-MD-Sunny/multiple-component-data-passing.git \
 07.====>>git push -u origin main
 
 `Push an existing repository from the command line`\
 01.====>>rm -rf .git\
-02.====>>git remote add origin https://github.com/Eg-MD-Sunny/multiple-component-data-passing.git\
+02.====>>git remote add origin https://github.com/Eg-MD-Sunny/multiple-component-data-passing.git \
 03.====>>git branch -M main\
 04.====>>git push -u origin main
 
